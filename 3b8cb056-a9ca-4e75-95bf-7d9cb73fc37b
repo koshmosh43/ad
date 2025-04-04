@@ -1,0 +1,5 @@
+/** <Typr Font Parser>.init **/
+
+troikaDefine(
+(t,e,i)=>i(t(),e())
+)

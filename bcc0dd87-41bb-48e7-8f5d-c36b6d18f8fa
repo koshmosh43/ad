@@ -1,0 +1,5 @@
+/** <Typesetter>.init **/
+
+troikaDefine(
+(t,e,i)=>t(e,i())
+)
